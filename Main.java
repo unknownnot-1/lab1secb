@@ -4,7 +4,7 @@ public class Main
 {
 	public static void main(String[] args) {
 		Queue q = new linkedList();
-		    for(int i=0;i<5;i++){
+		    for(int i=0;i<15;i++){
 		        q.add(i);}
     System.out.println("elements:"+q);
     int removedeletelement=q.remove();
